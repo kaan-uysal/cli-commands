@@ -1,4 +1,4 @@
-# terminal-commands
+# CLI notes
 Collection of linux terminal codes, operators and CLI notes.
 
 | Command | Description | Example / Syntax |
