@@ -1,4 +1,7 @@
 # CLI notes
+
+## Linux CLI
+
 Collection of linux terminal codes, operators and CLI notes.
 
 | Command | Description | Example / Syntax |
@@ -33,6 +36,8 @@ Collection of linux terminal codes, operators and CLI notes.
 | `-` | Switch back to the previous working directory | `cd -` |
 
 ---
+
+## Windows CLI
 
 Handy cheat sheet for essential Windows Command Prompt (CMD) commands used in system navigation, networking, file management, and process analysis.
 
