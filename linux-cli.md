@@ -19,6 +19,8 @@ Collection of linux terminal codes, operators and CLI notes.
 
 ---
 
+### Operators
+
 | Operator or symbol | Description | Example / Syntax |
 | :--- | :--- | :--- |
 | `&` | Allows to execute commands in the background. | `sleep 30 &`
